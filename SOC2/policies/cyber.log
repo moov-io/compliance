@@ -1,0 +1,43 @@
+This is TeX, Version 3.141592653 (TeX Live 2021) (preloaded format=tex 2021.9.3)  3 SEP 2021 14:19
+**cyber.md
+(./cyber.md
+! You can't use `macro parameter character #' in vertical mode.
+l.11 #
+       Purpose and Scope
+? q
+OK, entering \batchmode...
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^99 in font cmr10!
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^99 in font cmr10!
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^99 in font cmr10!
+! You can't use `macro parameter character #' in vertical mode.
+l.19 #
+       Background
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.29 #
+       Procedure To Execute Risk Assessment Report
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^99 in font cmr10!
+ [1])
+! Emergency stop.
+<*> cyber.md
+            
+*** (job aborted, no legal \end found)
+
+Output written on cyber.dvi (1 page, 5540 bytes).
